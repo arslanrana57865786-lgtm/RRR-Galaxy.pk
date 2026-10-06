@@ -1,0 +1,10 @@
+# robots.txt for RRR-Galaxy.pk
+# Allows all search engines to crawl the whole website.
+
+User-agent: *
+Allow: /
+
+# REPLACE THE DOMAIN BELOW if you are using your GitHub Pages address first, e.g.
+# Sitemap: https://YOURNAME.github.io/YOUR-REPO/sitemap.xml
+# (Change it to https://rrr-galaxy.pk/sitemap.xml after your domain is connected.)
+Sitemap: https://rrr-galaxy.pk/sitemap.xml

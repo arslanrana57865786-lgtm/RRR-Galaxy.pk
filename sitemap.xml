@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  sitemap.xml for RRR-Galaxy.pk
+  This is a one-page website, so there is one URL.
+  REPLACE https://rrr-galaxy.pk/ with your GitHub Pages address if you launch there first,
+  e.g. https://YOURNAME.github.io/YOUR-REPO/  (keep the slash at the end).
+  Update <lastmod> whenever you make big changes (format YYYY-MM-DD).
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://rrr-galaxy.pk/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
